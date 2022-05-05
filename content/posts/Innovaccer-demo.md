@@ -2,4 +2,4 @@
 title: Hello world demo
 ---
 
-THis is used for testing purpose only.
+THis is used for testing.
