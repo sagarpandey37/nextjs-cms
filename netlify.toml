@@ -4,4 +4,4 @@
   external_node_modules = ["sharp"]
 
 [[plugins]]
-package = "@netlify/plugin-nextjs"
+  package = "@netlify/plugin-nextjs"
